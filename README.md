@@ -1,2 +1,3 @@
 # Publication-analysis
-An OLS vs Fixed effect estimation
+Fixed effect estimation and OLS PREDICTION
+
